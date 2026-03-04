@@ -24,6 +24,8 @@ This project addresses these challenges by:
 By combining **low-level memory efficiency** with **object-oriented principles**, the system is **scalable, maintainable, and serialization-ready**, meaning it could easily be extended to store readings in a file or database.
 
 ---
+![Uploading ezgif-265efe6ee9c205e3.webm-poster.jpg…]()
+
 
 ## Features
 
